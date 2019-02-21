@@ -1,0 +1,14 @@
+{
+  "name": "nodejsexperiments",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My own private experiments",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
