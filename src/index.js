@@ -1,3 +1,3 @@
-const path = require('path');
+const coin = 2;
 
 console.log('PROUT');
