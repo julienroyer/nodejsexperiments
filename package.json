@@ -4,7 +4,8 @@
   "private": true,
   "description": "My own private experiments",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start:dev": "webpack-dev-server"
   },
   "author": "",
   "license": "UNLICENSED",
